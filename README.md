@@ -1,10 +1,10 @@
 # Student Enrollment Form
 
 ## Table of Contents
-- [Description](https://github.com/surajy1/Student-Enrollment-Form#description)
-- [Benefits of using JsonPowerDB](https://github.com/surajy1/Student-Enrollment-Form#benefits-of-using-jsonpowerdb)
-- [Release History](https://github.com/surajy1/Student-Enrollment-Form#release-history)
-- [Sources](https://github.com/surajy1/Student-Enrollment-Form#sources)
+- [Description](https://github.com/y-suraj/Student-Enrollment-Form#description)
+- [Benefits of using JsonPowerDB](https://github.com/y-suraj/Student-Enrollment-Form#benefits-of-using-jsonpowerdb)
+- [Release History](https://github.com/y-suraj/Student-Enrollment-Form#release-history)
+- [Sources](https://github.com/y-suraj/Student-Enrollment-Form#sources)
 
 ### Description
   JsonPowerDB is a database server developed by [Login2Xplore](https://login2explore.com/), which provides developer-friendly database solutions.
@@ -25,4 +25,4 @@
 ### Release History
 + 0.0.1
   - Add: README.md file
-  - Add: index.html file to [HTML](https://github.com/surajy1/JsonPowerDB-Project/tree/main/HTML) folder
+  - Add: index.html file to [HTML](https://github.com/y-suraj/JsonPowerDB-Project/tree/main/HTML) folder
