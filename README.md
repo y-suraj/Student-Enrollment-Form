@@ -26,3 +26,11 @@
 + 0.0.1
   - Add: README.md file
   - Add: index.html file to [HTML](https://github.com/y-suraj/JsonPowerDB-Project/tree/main/HTML) folder
+
+## Student Enrollment Form Project
+### Illustrations
+
++ ![Save](https://github.com/y-suraj/Student-Enrollment-Form/blob/main/Assets/Screenshot%202023-01-26%20at%2012-47-43%20Student%20Enrollment%20Form.png)
+![](https://github.com/y-suraj/Student-Enrollment-Form/blob/main/Assets/img%202.png)
+
++ ![Update](https://github.com/y-suraj/Student-Enrollment-Form/blob/main/Assets/img%203.png)
