@@ -27,7 +27,6 @@
   - Add: README.md file
   - Add: index.html file to [HTML](https://github.com/y-suraj/JsonPowerDB-Project/tree/main/HTML) folder
 
-## Student Enrollment Form Project
 ### Illustrations
 
 + Save
